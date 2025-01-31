@@ -18,7 +18,8 @@ export default function Home() {
             className="text-center"
           >
             <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-              Power Your Career<br />With Industry-Ready Skills
+              {/* Power Your Career<br />With Industry-Ready Skills */}
+              Power Your Career
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100 max-w-3xl mx-auto">
               Join 500,000+ professionals advancing their careers with our industry-recognized certifications
